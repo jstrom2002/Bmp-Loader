@@ -1,5 +1,8 @@
 # BMP Loader  
-### Very simple .bmp image file loader for 24-bit RGB images using the simplest header type only  
-  
+### Simple C++ .bmp image file loader 
+
+### Notes  
+- Currently only works for 24-bit RGB images using the simplest header type ('BITMAPINFOHEADER') only  
+
 ### Dependencies
-C++11
+C++11  
