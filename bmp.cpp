@@ -2,7 +2,7 @@
 #include <cmath>
 #include <exception>
 
-namespace Glaze3D
+namespace BMP
 {
 	Bmp::Bmp(std::vector<std::vector<unsigned char>>& pixelArray)
 	{
