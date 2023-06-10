@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 
-namespace Glaze3D
+namespace BMP
 {
 	// NOTE: .bmp files can only contain RGB data. So far, this class does not handle any compressed data or bit depths != 24 bit.
 	class Bmp
